@@ -9,6 +9,7 @@ using namespace std;
 //     cout<<"you are "<<name<<" and you are"<<age<<" years old";
 //     return 0;
 // }
+
 //problem 2
 #include<iostream>
 #include <iomanip>
